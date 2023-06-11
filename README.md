@@ -17,7 +17,7 @@ The database also includes several procedures, functions, and triggers to enhanc
 
 The conceptual model diagram for the flight management database project is as follows:
 
-![Diagram][(/diagram.png)](https://github.com/tayyipcanbay/Databases-and-Warehouses/blob/main/diagram.png)
+![Diagram](https://github.com/tayyipcanbay/Databases-and-Warehouses/blob/main/diagram.png)
 
 ## 3. Description of Tables
 
